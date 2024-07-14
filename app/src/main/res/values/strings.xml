@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MobilityCare</string>
+    <string name="bienvenue_sur">Bienvenue sur</string>
+    <string name="s_identifier">S\'identifier :</string>
+    <string name="email_identifiant">Email/Identifiant</string>
+    <string name="tapez_votre_email">Tapez votre email</string>
+    <string name="suivant">Suivant</string>
+    <string name="nous_avons_envoy_un_otp_4_chiffres_votre">Nous avons envoyé un OTP à 4 chiffres à votre</string>
+    <string name="adresse_lectronique_aman_gmail_com">adresse électronique : aman...........@gmail.com</string>
+    <string name="saisir_les_4_chiffres_de_l_otp">Saisir les 4 chiffres de l\'OTP</string>
+    <string name="v_rifier_maintenant">Vérifier maintenant</string>
+    <string name="saisir_le_code_de_v_rification">Saisir le code de vérification</string>
+</resources>
